@@ -3,7 +3,6 @@
 > A powerful, CSS-like TUI (Text User Interface) framework for PHP - Inspired by Turbo Vision
 
 [![PHP Version](https://img.shields.io/badge/PHP-%5E8.2-blue)](https://www.php.net)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ## ✨ Features
 
@@ -362,7 +361,7 @@ $scifiBorder = Border::create()
 
 ## 📝 License
 
-MIT License - see LICENSE file
+Apache 2.0 License - see [LICENSE|LICENSE] file
 
 ## 🙏 Acknowledgments
 
