@@ -1,0 +1,33 @@
+{
+    "name": "terminalui/framework",
+    "description": "A powerful, CSS-like TUI (Text User Interface) framework for PHP - inspired by Turbo Vision",
+    "type": "library",
+    "keywords": ["tui", "terminal", "cli", "ui", "turbo-vision", "console", "ncurses"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Space Wars Team",
+            "email": "dev@spacewars.dev"
+        }
+    ],
+    "require": {
+        "php": "^8.2",
+        "ext-pcntl": "*",
+        "ext-posix": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "TerminalUI\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "TerminalUI\\Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
