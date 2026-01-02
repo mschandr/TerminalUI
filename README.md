@@ -361,7 +361,7 @@ $scifiBorder = Border::create()
 
 ## 📝 License
 
-Apache 2.0 License - see [LICENSE|LICENSE] file
+Apache 2.0 License - see [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
